@@ -1,0 +1,4 @@
+count = int(input("Size of square: "))
+for x in range(count) :
+    print("*",end='')
+   
